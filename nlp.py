@@ -456,14 +456,7 @@ def main():
     st.markdown("---")
     st.markdown(
         """
-        **Smart Document Assistant** - Built for CHRIST University MDS472C NLP Lab Exam
-        
-        **Features Demonstrated:**
-        - ✅ Text Preprocessing & Pattern Extraction
-        - ✅ Spell Correction & Query Error Handling  
-        - ✅ Language Structure Analysis (POS, NER)
-        - ✅ Semantic Similarity using TF-IDF
-        - ✅ Document Retrieval System
+        **Smart Document Assistant** - Built for Government Schemes MDS472C NLP Lab Exam
         """
     )
 
