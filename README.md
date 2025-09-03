@@ -108,11 +108,9 @@ Semantic Similarity
 
 Document Retrieval
 
-## 🎥 Demo
+## Demo
 
-![Smart Document Assistant Demo](output.gif)
-
-
+![Smart Document Assistant Demo](./output.gif)
 
 GitHub: loki07-07
 
