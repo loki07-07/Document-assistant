@@ -110,7 +110,7 @@ Document Retrieval
 
 ## 🎥 Demo
 
-![Smart Document Assistant Demo](output .gif)
+![Smart Document Assistant Demo](output.gif)
 
 
 
